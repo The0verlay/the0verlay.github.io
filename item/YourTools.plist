@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd …">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd â€¦">
 <plist version="1.0">
 <dict>
 <key>items</key>
@@ -10,7 +10,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://the0verlay.github.io/ipa/yourtools.ipa</string>
+<string>https://the0verlay.github.io/item/YourTools.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -39,4 +39,4 @@
 </dict>
 </array>
 </dict>
-</plist> 
+</plist> 
