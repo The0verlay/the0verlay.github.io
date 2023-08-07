@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -14,18 +15,16 @@
 					<string>https://the0verlay.github.io/iCalculator_1.1.ipa</string>
 				</dict>
 			</array>
-			<key>platform-identifier</key>
-			<string>com.apple.platform.iphoneos</string>
 			<key>metadata</key>
 			<dict>
+				<key>bundle-identifier</key>
+				<string>net.whatsapp.WhatsApp</string>
+				<key>bundle-version</key>
+				<string>23.13.80</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Outline</string>
-				<key>bundle-identifier</key>
-				<string>1</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>WhatsApp</string>
 			</dict>
 		</dict>
 	</array>
