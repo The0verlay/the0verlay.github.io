@@ -18,13 +18,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.whatsapp.Whatsp</string>
+				<string>com.appsnice.acal</string>
 				<key>bundle-version</key>
-				<string>23.13.80</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>WhatsApp</string>
+				<string>tEST</string>
 			</dict>
 		</dict>
 	</array>
