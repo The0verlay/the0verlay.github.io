@@ -20,7 +20,7 @@
 				<key>bundle-identifier</key>
 				<string>org.outline.ios.client</string>
 				<key>bundle-version</key>
-				<string>468046</string>
+				<string>1.11.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
