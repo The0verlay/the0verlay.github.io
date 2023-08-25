@@ -12,19 +12,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://tiendaespiral.com/pub/x.ipa</string>
+					<string>https://the0verlay.github.io/Outline1110.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xvpn</string>
+				<string>org.outline.ios.client</string>
 				<key>bundle-version</key>
-				<string>36.0</string>
+				<string>1.11.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>X-VPN</string>
+				<string>Outline</string>
 			</dict>
 		</dict>
 	</array>
