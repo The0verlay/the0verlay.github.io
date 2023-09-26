@@ -12,19 +12,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://the0verlay.github.io/com.elierayalabernal.yourtools_1566415641_v3.5.ipa</string>
+					<string>https://the0verlay.github.io/org.outline.ios.client_1356177741_v1.11.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.elierayalabernal.yourtools</string>
+				<string>org.outline.ios.client</string>
 				<key>bundle-version</key>
-				<string>3.5</string>
+				<string>1.11.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>YourTools</string>
+				<string>Outline VPN</string>
 			</dict>
 		</dict>
 	</array>
