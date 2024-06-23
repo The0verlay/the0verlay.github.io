@@ -16,8 +16,7 @@
 				</array>
 				<key>metadata</key>
 				<dict>
-				    <key>bundle-identifier</key>
-				    <string>com.elierayalabernal.yourtools</string>
+				 
 				    <key>kind</key>
 				    <string>software</string>
 				    <key>title</key>
