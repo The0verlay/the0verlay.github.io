@@ -17,7 +17,7 @@
 				<key>metadata</key>
 				<dict>
 				    <key>bundle-identifier</key>
-				    <string>com.elierayalabernal.youtools</string>
+				    <string>com.elierayalabernal.yourtools</string>
 				    <key>bundle-version</key>
 				    <string>2.7.123</string>
 				    <key>kind</key>
