@@ -18,12 +18,10 @@
 				<dict>
 				    <key>bundle-identifier</key>
 				    <string>com.elierayalabernal.yourtools</string>
-				    <key>bundle-version</key>
-				    <string>1</string>
 				    <key>kind</key>
 				    <string>software</string>
 				    <key>title</key>
-				    <string>YourTools X</string>
+				    <string>YourToolsX</string>
 				</dict>
 			</dict>
 		</array>
